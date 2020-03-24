@@ -1,5 +1,4 @@
 require 'yaml'
-require 'pry'
 
 def load_library
   get_meaning, get_emoticon = {}, {}
